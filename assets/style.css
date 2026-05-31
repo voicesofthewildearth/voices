@@ -48,7 +48,7 @@ header.site nav a{color:var(--bark)}
 .btn:hover{text-decoration:none;transform:translateY(-2px)}
 .btn.apple{background:#fff;color:var(--forest)}
 .btn.spotify{background:#1db954;color:#fff}
-.btn.youtube{background:#ff0000;color:#fff}
+.btn.youtube{background:#d9a83c;color:#2a2a23}
 .ep-listen .btn.apple{border-color:var(--forest)}
 
 /* sunset note */
