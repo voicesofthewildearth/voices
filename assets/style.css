@@ -106,7 +106,8 @@ footer.site a{color:#f0c88a}
 .ep-hero h1{color:#fff;font-size:clamp(2rem,5.5vw,3.5rem);margin:0 0 .5rem;text-shadow:0 2px 20px rgba(0,0,0,.5)}
 .ep-meta{color:#eee5d4;margin:0;font-size:1.05rem;text-shadow:0 1px 8px rgba(0,0,0,.5)}
 .ep-body{max-width:720px;margin:0 auto;padding:2.6rem clamp(1rem,4vw,1.5rem) 3.5rem}
-.player{display:flex;justify-content:center;margin-bottom:1.2rem}
+.player{display:flex;justify-content:center;margin-bottom:1rem}
+.player-note{text-align:center;color:var(--stone);font-size:.92rem;margin:0 0 1.1rem}
 .ep-listen{display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap;margin-bottom:2.2rem}
 .prose .lead{font-family:var(--serif);font-size:1.32rem;line-height:1.6;color:var(--bark);font-style:italic}
 .prose p{margin:0 0 1.2rem}
