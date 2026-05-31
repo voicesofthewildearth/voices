@@ -48,6 +48,7 @@ header.site nav a{color:var(--bark)}
 .btn:hover{text-decoration:none;transform:translateY(-2px)}
 .btn.apple{background:#fff;color:var(--forest)}
 .btn.spotify{background:#1db954;color:#fff}
+.btn.youtube{background:#ff0000;color:#fff}
 .ep-listen .btn.apple{border-color:var(--forest)}
 
 /* sunset note */
@@ -91,6 +92,7 @@ footer.site{background:var(--forest);color:#e9e3d3;padding:3rem 1.4rem;text-alig
 .foot-inner{max-width:680px;margin:0 auto}
 .foot-logo{margin:0 auto 1rem;border-radius:50%;opacity:.95}
 .foot-org{font-family:var(--serif);font-size:1.2rem;margin:.2rem 0 1rem;color:#fff}
+.foot-contact{margin:.2rem 0 .6rem;font-size:1rem;color:#e9e3d3}
 .foot-links{margin:.4rem 0}
 footer.site a{color:#f0c88a}
 .foot-meta{color:#b9c2ab;font-size:.9rem;margin:1rem 0 .6rem}
